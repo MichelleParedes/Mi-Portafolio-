@@ -1,0 +1,15 @@
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\Actividad_Practica_POO.csproj.AssemblyReference.cache
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\Actividad_Practica_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\Actividad_Practica_POO.AssemblyInfoInputs.cache
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\Actividad_Practica_POO.AssemblyInfo.cs
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\Actividad_Practica_POO.csproj.CoreCompileInputs.cache
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\bin\Debug\net6.0\Actividad_Practica_POO.exe
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\bin\Debug\net6.0\Actividad_Practica_POO.deps.json
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\bin\Debug\net6.0\Actividad_Practica_POO.runtimeconfig.json
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\bin\Debug\net6.0\Actividad_Practica_POO.dll
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\bin\Debug\net6.0\Actividad_Practica_POO.pdb
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\Actividad_Practica_POO.dll
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\refint\Actividad_Practica_POO.dll
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\Actividad_Practica_POO.pdb
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\Actividad_Practica_POO.genruntimeconfig.cache
+D:\Espe\5 semestre\web 2\Actividad_Practica_POO\Actividad_Practica_POO\obj\Debug\net6.0\ref\Actividad_Practica_POO.dll
