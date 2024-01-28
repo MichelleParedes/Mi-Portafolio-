@@ -1,0 +1,15 @@
+# Buscador de Libros
+
+Este proyecto es una aplicación de búsqueda de libros desarrollada con React. Permite a los usuarios buscar libros utilizando una API externa y guardar sus libros favoritos.
+
+## Cómo ejecutar el proyecto
+
+Sigue estos pasos para ejecutar la aplicación en tu máquina local:
+
+1. **Clona el repositorio, instala las dependencias y inicia la aplicación**: Para comenzar, ejecuta los siguientes comandos en tu terminal:
+
+   ```bash
+   git clone https://github.com/MichelleParedes/MiPortafolio-/tree/main/Buscador_libros
+   cd buscador-libros
+   npm install
+   npm start
