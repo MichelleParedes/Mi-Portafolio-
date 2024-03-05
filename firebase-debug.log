@@ -1,0 +1,28 @@
+[debug] [2024-02-05T17:07:44.934Z] ----------------------------------------------------------------------
+[debug] [2024-02-05T17:07:44.938Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\thegr\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-02-05T17:07:44.938Z] CLI Version:   13.1.0
+[debug] [2024-02-05T17:07:44.938Z] Platform:      win32
+[debug] [2024-02-05T17:07:44.938Z] Node Version:  v20.11.0
+[debug] [2024-02-05T17:07:44.939Z] Time:          Mon Feb 05 2024 12:07:44 GMT-0500 (hora de Ecuador)
+[debug] [2024-02-05T17:07:44.939Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-02-05T17:07:44.947Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-02-05T17:07:44.948Z] > authorizing via signed-in user (thegranwil@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  L:\Espe V\Web Avzd\Unidad 2\comercio 4\tecno-tienda
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
